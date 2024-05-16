@@ -24,3 +24,10 @@ For this I used a soft beak line (by double clicking on the space bar)
 # Comments
 [comment]: <> (This is a comment)  
 [//]:<> (This is also a comment)
+
+
+# Images
+![MyImage][imagereference]  
+
+
+[imagereference]: https://github.com/Mwakanemela/Quote-Generator/blob/main/me.jpg
