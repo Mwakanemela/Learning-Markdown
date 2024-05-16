@@ -19,3 +19,8 @@ For this I used a soft beak line (by double clicking on the space bar)
 
 
 [myreference]: https://github.com/Mwakanemela/
+
+
+# Comments
+[comment]: <> (This is a comment)  
+[//]:<> (This is also a comment)
