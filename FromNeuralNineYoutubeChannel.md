@@ -10,3 +10,12 @@
 
 Used a hard break line (press enter twice to create to diff sentences)   
 For this I used a soft beak line (by double clicking on the space bar)
+
+
+# Links
+[This is a one time use link](https://github.com/Mwakanemela)  
+[reusable link 1][myreference]  
+[reusable link 2][myreference]
+
+
+[myreference]: https://github.com/Mwakanemela/
